@@ -1,0 +1,19 @@
+body{
+  background:#f2f4f8;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.card{
+  background:#fff;
+  padding:20px;
+  border-radius:15px;
+}
+
+input{
+  display:block;
+  margin-top:10px;
+  padding:10px;
+}
